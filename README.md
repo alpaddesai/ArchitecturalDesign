@@ -8,3 +8,6 @@ Advanced details please reference : https://github.com/alpaddesai/VLSI_Design , 
 ![image](GraduateDegreeEE.png)
 
 Additional details: https://github.com/alpaddesai/MSEE_SmartGridDesignIdea
+
+## Ethics and Excellence
+![image](EthicsandExcellence.png)
