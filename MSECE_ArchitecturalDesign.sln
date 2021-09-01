@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSECE_ArchitecturalDesign", "MSECE_ArchitecturalDesign\MSECE_ArchitecturalDesign.csproj", "{F57CCBA1-E197-475D-B155-F67C473BF991}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F57CCBA1-E197-475D-B155-F67C473BF991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F57CCBA1-E197-475D-B155-F67C473BF991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F57CCBA1-E197-475D-B155-F67C473BF991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F57CCBA1-E197-475D-B155-F67C473BF991}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8427DEA-7901-42ED-A7B5-F839AA7E02F8}
+	EndGlobalSection
+EndGlobal
