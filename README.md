@@ -1,4 +1,4 @@
-# MSECE_Architectural Design
+# MSECE Architectural Design
 
 Architectural design includes evaluating the technical feasibility  of the business requirements. 
 
