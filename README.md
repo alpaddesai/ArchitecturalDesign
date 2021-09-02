@@ -7,7 +7,7 @@ Advanced details please reference : https://github.com/alpaddesai/VLSI_Design , 
 ## Master of Science in Electrical Engineering
 ![image](GraduateDegreeEE.png)
 
-Additional details: https://github.com/alpaddesai/MSEE_SmartGridDesignIdea
+Additional details: https://github.com/alpaddesai/MSEE_SmartGridDesignIdea and https://github.com/alpaddesai/HardwareEngineeringLab4-
 
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
