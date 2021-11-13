@@ -1,4 +1,4 @@
-# MSECE Architectural Design
+# ECE Architectural Design
 
 Architectural design includes evaluating the technical feasibility  of the business requirements. 
 
