@@ -7,4 +7,4 @@ Advanced details please reference : https://github.com/alpaddesai/AnalogDesign, 
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
 
-https://github.com/alpaddesai/MSEE_EngineeringProjectManagement
+Additional details reference : https://github.com/alpaddesai/EngineeringProjectManagement
